@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 40px;
+    padding: 9px;
+    margin-top: 6px;
+}
+
+.header-left img {
+    width: 90px;
+    display: inline-block;
+    margin-bottom: -10px;
+}
+
+.header-left ul li {
+    display: inline-block;
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', '
+}
+
+.card-custom {
+    width: 100%; /* Default width for cards */
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+span{
+    font-size: xx-large;
+    font-weight: 400;
+
+}
+.featuredads{
+    background-color: rgb(241, 240, 240);
+}
+.featuredads img{
+    width: 90%;
+    height: 400px;
+    object-fit: cover;
+}
+.holiday-card  img{
+    width: 90%;
+    height: 550px;
+    object-fit: cover;
+}
+.holidays{
+    background-color: rgb(241, 240, 240);
+}
+.more{
+    background-color: rgb(241, 240, 240);
+}
+.more img{
+    width: 90%;
+    height: 550px;
+    object-fit: cover;
+}
+.last-section img{
+    width: 130px;
+}
+.l1,
+.l2,
+.l3{
+    font-weight: 700;
+    font-size: medium;
+}
